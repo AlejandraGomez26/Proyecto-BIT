@@ -1,0 +1,12 @@
+.bg-pink{
+    background-color: #b00000;
+}
+.bg-red-c {
+    background-color: #d19a9a;
+}
+.profile-image {
+    background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2022/6/30/hbad1ecz5nqcl5z741xv/sergio-perez-lewis-hamilton-f1-gp-bahein-2022);
+background-size: cover;
+width: 9rem;
+height: 9rem;
+}
